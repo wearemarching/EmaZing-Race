@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "311486442659",
+    "firebase_url": "https://loginregister-1b7f9.firebaseio.com",
+    "project_id": "loginregister-1b7f9",
+    "storage_bucket": "loginregister-1b7f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311486442659:android:cc5cf86100048b4b",
+        "android_client_info": {
+          "package_name": "com.example.loginregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311486442659-fs1obqevhbs4d4vdsoh2ur05q5aehg74.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginregister",
+            "certificate_hash": "4f1691524da73d17046fa6dcf3138fa6b5a5e073"
+          }
+        },
+        {
+          "client_id": "311486442659-tlp97694hujgeh6bp9flk3o01svtjj02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7wfjkhJ-qqreSsgTX3FxvyNM_8kdKjtI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311486442659-tlp97694hujgeh6bp9flk3o01svtjj02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
