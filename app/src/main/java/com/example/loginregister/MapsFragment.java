@@ -297,7 +297,7 @@ public class MapsFragment extends Fragment implements OnMapReadyCallback,
         LatLng koord = new LatLng(x,y);
         player1.position(koord);
         player1.title("Player 1");
-        player1.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_ORANGE));
+        player1.icon(BitmapDescriptorFactory.fromResource(R.mipmap.villain));
         mLocationMarker = mMap.addMarker(player1);
     }
 
@@ -306,7 +306,7 @@ public class MapsFragment extends Fragment implements OnMapReadyCallback,
         LatLng koord = new LatLng(x,y);
         player2.position(koord);
         player2.title("Player 2");
-        player2.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_VIOLET));
+        player2.icon(BitmapDescriptorFactory.fromResource(R.mipmap.villain));
         mLocationMarker = mMap.addMarker(player2);
     }
 
@@ -315,7 +315,7 @@ public class MapsFragment extends Fragment implements OnMapReadyCallback,
         LatLng koord = new LatLng(x,y);
         player3.position(koord);
         player3.title("Player 3");
-        player3.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_CYAN));
+        player3.icon(BitmapDescriptorFactory.fromResource(R.mipmap.villain));
         mLocationMarker = mMap.addMarker(player3);
     }
 
@@ -324,7 +324,7 @@ public class MapsFragment extends Fragment implements OnMapReadyCallback,
         LatLng koord = new LatLng(x,y);
         player4.position(koord);
         player4.title("Player 1");
-        player4.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_ROSE));
+        player4.icon(BitmapDescriptorFactory.fromResource(R.mipmap.villain));
         mLocationMarker = mMap.addMarker(player4);
     }
 
@@ -383,6 +383,7 @@ public class MapsFragment extends Fragment implements OnMapReadyCallback,
 
     @Override
     public void onLocationChanged(Location location) {
+        mMap.clear();
         addMarker();
         //Place current location marker
 
