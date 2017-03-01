@@ -12,7 +12,6 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    android:background="#9DC3E6"
     tools:context="com.example.loginregister.LoginActivity">
 
 
