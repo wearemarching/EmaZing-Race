@@ -32,7 +32,7 @@ public class LocationBroadcastService extends IntentService {
             if (ActivityCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
                 return;
             }
-            Location location = lm.getLastKnownLocation(LocationManager.GPS_PROVIDER);
+            Location location = lm.getLastKnownLocation(LocationManager.NETWORK_PROVIDER);
             System.out.println("nyobanyoba!");
 
             if (location != null) {
