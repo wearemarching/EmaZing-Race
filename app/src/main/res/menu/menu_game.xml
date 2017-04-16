@@ -5,6 +5,12 @@
     <item
         android:id="@+id/action_settings"
         android:orderInCategory="100"
+        android:title="Check Quest!"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_settings2"
+        android:orderInCategory="100"
         android:title="Get Post!"
         app:showAsAction="never" />
 </menu>

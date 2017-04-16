@@ -41,6 +41,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:gravity="center_horizontal"
+        android:inputType="textCapCharacters"
         android:textSize="32sp"
         android:hint="___ ___"/>
 

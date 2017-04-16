@@ -64,13 +64,23 @@ public class MapsFragment extends Fragment implements OnMapReadyCallback,
 
     double lat;
     double lng;
+
+    double p1lat = 0;
+    double p1lng = 0;
+    double p2lat = 0;
+    double p2lng = 0;
+    double p3lat = 0;
+    double p3lng = 0;
+    double p4lat = 0;
+    double p4lng = 0;
+
     // TODO: Rename parameter arguments, choose names that match
     // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
     private static final String ARG_PARAM1 = "param1";
+    private static int nPost;
 
     // TODO: Rename and change types of parameters
     private String mParam1;
-
 
     final Random rnd = new Random();
 
@@ -88,11 +98,12 @@ public class MapsFragment extends Fragment implements OnMapReadyCallback,
      * @return A new instance of fragment MapsFragment.
      */
     // TODO: Rename and change types and number of parameters
-    public static MapsFragment newInstance(String param1) {
+    public static MapsFragment newInstance(String param1, int quest) {
         MapsFragment fragment = new MapsFragment();
         Bundle args = new Bundle();
         args.putString(ARG_PARAM1, param1);
         fragment.setArguments(args);
+        nPost = quest;
         return fragment;
     }
 
@@ -108,20 +119,6 @@ public class MapsFragment extends Fragment implements OnMapReadyCallback,
         if (android.os.Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
             checkLocationPermission();
         }
-        // Obtain the SupportMapFragment and get notified when the map is ready to be used.
-
-       /* mapView = (MapView) getView().findViewById(R.id.mapview);
-        mapView.onCreate(savedInstanceState);*/
-
-        /*Intent myIntent = getIntent();
-        final String gameToken = myIntent.getStringExtra("gameToken");
-
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_game);
-
-        Intent mServiceIntent = new Intent(getApplicationContext(), LocationBroadcastService.class);
-        mServiceIntent.setData(Uri.parse("https://whispering-lake-62045.herokuapp.com/location?gameToken=" + gameToken));
-        startService(mServiceIntent);*/
     }
 
     @Override
@@ -237,25 +234,39 @@ public class MapsFragment extends Fragment implements OnMapReadyCallback,
                     TextView point_Pos= (TextView) v.findViewById(R.id.pointPos);
 
                     judul_Pos.setText(marker.getTitle());
+                    judul_Pos.setTextColor(Color.rgb(0,0,0));
+
                     if(marker.getTitle().matches("POS A")){
-                        nama_Pos.setText("PERMAINAN CONGKLAK");
-                        ket_Pos.setText("Anda harus mencari papan congklak dan bermain bersama pasangan");
+                        nama_Pos.setText("Space Run");
+                        ket_Pos.setText("Run in space! Collect the coins without hitting obstacles!");
                         point_Pos.setText("Point: 100pts");
+                        nama_Pos.setTextColor(Color.rgb(0,0,0));
+                        ket_Pos.setTextColor(Color.rgb(0,0,0));
+                        point_Pos.setTextColor(Color.rgb(0,0,0));
                     }
                     else if (marker.getTitle().matches("POS B")){
-                        nama_Pos.setText("PERMAINAN BOLA");
-                        ket_Pos.setText("Anda harus memasukan bola ke dalam keranjang sebanyak - banyaknya");
-                        point_Pos.setText("Point: setiap lemparan masuk 5pts");
+                        nama_Pos.setText("Sleep Walking");
+                        ket_Pos.setText("Would you help a child in her dreams? Hop as long as you can!");
+                        point_Pos.setText("Point: 100pts");
+                        nama_Pos.setTextColor(Color.rgb(0,0,0));
+                        ket_Pos.setTextColor(Color.rgb(0,0,0));
+                        point_Pos.setTextColor(Color.rgb(0,0,0));
                     }
                     else if (marker.getTitle().matches("POS C")){
-                        nama_Pos.setText("PERMAINAN apaya");
-                        ket_Pos.setText("apaya");
-                        point_Pos.setText("Point: pts");
+                        nama_Pos.setText("Tanks");
+                        ket_Pos.setText("Defend the tanks in a battlefield!");
+                        point_Pos.setText("Point: 100pts");
+                        nama_Pos.setTextColor(Color.rgb(0,0,0));
+                        ket_Pos.setTextColor(Color.rgb(0,0,0));
+                        point_Pos.setTextColor(Color.rgb(0,0,0));
                     }
                     else if (marker.getTitle().matches("POS D")){
-                        nama_Pos.setText("PERMAINAN ?");
-                        ket_Pos.setText("?");
-                        point_Pos.setText("Point: pts");
+                        nama_Pos.setText("Mathour");
+                        ket_Pos.setText("Math? Hour? Calculate arithmetic problems with clock mindset.");
+                        point_Pos.setText("Point: 100pts");
+                        nama_Pos.setTextColor(Color.rgb(0,0,0));
+                        ket_Pos.setTextColor(Color.rgb(0,0,0));
+                        point_Pos.setTextColor(Color.rgb(0,0,0));
                     }
                     return v;
                 }
@@ -293,6 +304,8 @@ public class MapsFragment extends Fragment implements OnMapReadyCallback,
     }
     //Generate Player
     public void createPlayer1(double x, double y){
+        p1lat = x;
+        p1lng = y;
         MarkerOptions player1 = new MarkerOptions();
         LatLng koord = new LatLng(x,y);
         player1.position(koord);
@@ -302,6 +315,8 @@ public class MapsFragment extends Fragment implements OnMapReadyCallback,
     }
 
     public void createPlayer2(double x, double y){
+        p2lat = x;
+        p2lng = y;
         MarkerOptions player2 = new MarkerOptions();
         LatLng koord = new LatLng(x,y);
         player2.position(koord);
@@ -311,6 +326,8 @@ public class MapsFragment extends Fragment implements OnMapReadyCallback,
     }
 
     public void createPlayer3(double x, double y){
+        p3lat = x;
+        p3lng = y;
         MarkerOptions player3 = new MarkerOptions();
         LatLng koord = new LatLng(x,y);
         player3.position(koord);
@@ -320,47 +337,57 @@ public class MapsFragment extends Fragment implements OnMapReadyCallback,
     }
 
     public void createPlayer4(double x, double y){
+        p4lat = x;
+        p4lng = y;
         MarkerOptions player4 = new MarkerOptions();
         LatLng koord = new LatLng(x,y);
         player4.position(koord);
-        player4.title("Player 1");
+        player4.title("Player 4");
         player4.icon(BitmapDescriptorFactory.fromResource(R.mipmap.villain));
         mLocationMarker = mMap.addMarker(player4);
     }
 
     public void addMarker(){
 
-        //POS A = Labtek 5 tengah
-        LatLng labtek5 = new LatLng(-6.890555, 107.609830);
-        MarkerOptions posA = new MarkerOptions();
-        posA.position(labtek5);
-        posA.title("POS A");
-        posA.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_MAGENTA));
-        mLocationMarker = mMap.addMarker(posA);
+        if (nPost > 1) {
+            //POS A = Labtek 5 tengah
+            LatLng labtek5 = new LatLng(-6.890555, 107.609830);
+            MarkerOptions posA = new MarkerOptions();
+            posA.position(labtek5);
+            posA.title("POS A");
+            posA.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_MAGENTA));
+            mLocationMarker = mMap.addMarker(posA);
 
-        //POS B = Labtek 6 hadap Intel
-        LatLng labtek6 = new LatLng(-6.890567, 107.610568);
-        MarkerOptions posB = new MarkerOptions();
-        posB.position(labtek6);
-        posB.title("POS B");
-        posB.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_AZURE));
-        mLocationMarker = mMap.addMarker(posB);
+            if (nPost > 2) {
+                //POS B = Labtek 6 hadap Intel
+                LatLng labtek6 = new LatLng(-6.890567, 107.610568);
+                MarkerOptions posB = new MarkerOptions();
+                posB.position(labtek6);
+                posB.title("POS B");
+                posB.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_AZURE));
+                mLocationMarker = mMap.addMarker(posB);
 
-        //POS C = Labtek 7 hadap GKU Timur
-        LatLng labtek7 = new LatLng(-6.890078, 107.611375);
-        MarkerOptions posC = new MarkerOptions();
-        posC.position(labtek7);
-        posC.title("POS C");
-        posC.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_CYAN));
-        mLocationMarker = mMap.addMarker(posC);
+                if (nPost > 3) {
+                    //POS D = Labtek 7 hadap Intel
+                    LatLng labtek8 = new LatLng(-6.890193, 107.610133);
+                    MarkerOptions posD = new MarkerOptions();
+                    posD.position(labtek8);
+                    posD.title("POS D");
+                    posD.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_YELLOW));
+                    mLocationMarker = mMap.addMarker(posD);
 
-        //POS D = Labtek 7 hadap Intel
-        LatLng labtek8 = new LatLng(-6.890193, 107.610133);
-        MarkerOptions posD = new MarkerOptions();
-        posD.position(labtek8);
-        posD.title("POS D");
-        posD.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_YELLOW));
-        mLocationMarker = mMap.addMarker(posD);
+                    if (nPost > 4) {
+                        //POS C = Labtek 7 hadap GKU Timur
+                        LatLng labtek7 = new LatLng(-6.890078, 107.611375);
+                        MarkerOptions posC = new MarkerOptions();
+                        posC.position(labtek7);
+                        posC.title("POS C");
+                        posC.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_CYAN));
+                        mLocationMarker = mMap.addMarker(posC);
+                    }
+                }
+            }
+        }
     }
 
     public boolean checkLocationSame(){
@@ -385,6 +412,10 @@ public class MapsFragment extends Fragment implements OnMapReadyCallback,
     public void onLocationChanged(Location location) {
         mMap.clear();
         addMarker();
+        createPlayer1(p1lat, p1lng);
+        createPlayer2(p2lat, p2lng);
+        createPlayer3(p3lat, p3lng);
+        createPlayer4(p4lat, p4lng);
         //Place current location marker
 
         lat = location.getLatitude();

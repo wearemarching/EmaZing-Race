@@ -3,606 +3,597 @@
 
     <item
         is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\jars\classes.jar"
+        jar="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.2.0_facfaafe60cdb70220b783e4686d119d9e6b4674\classes.dex" />
+        sha1="06c1ac02830c8c434c2ba85915fe0a88084c7a3f">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e46b7dc0e7143ec4363c5c8aa81bf018196a4237\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7d14fe9bd2283b2eb7fcab08458aa0357917e138">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.2.0_68ee0b7ae1e7abd160fe7f3f6110bfd84f6cda3f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4e01b82d664e1a8253b2b9658e74b5da35c8771d">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.2.0_7174c42b70d3bcf36ff4383fd77a64ca7b8bf0bb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="48532a016bb0dfbe7970c147ce784598a515406b">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.2.0_3f26f52e3d2ae7071b493b69d369097141531bce\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.2.0_4a7b344fa0417fb157ac295dab86700261543c0e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3aaf1e7b5fe9f4d3ff22c4edc0ead631f7389d30">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.2.0_4abfe48363ce31c8857c6358f1744f481d3223b9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8438c64f9eb581429dc592f7c9b3156a3d071653">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.2.0_07cc947ecbeaa07d9f653ad30344baaac0d18efc\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.2.0_2051243e0c66ecc45f75965c9e9c4e4f129398e1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.2.0_9e8140aba17a472c586d427bf031811403c09c5b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1fbf3733f36fea63e70373212796e70f9079981f">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.2.0_a8b22a4bc0c35d69c120fa33a0e19e40fae0f945\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.2.0_37ad88f2553c09053cb9aec18049c83fe4fe6bb0\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.android.support\design\25.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.2.0_d33fc073e8ee9e3ba0941178a97208ec1dd6b5ba\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ca82d5800780b1d53f0f9ab43678d8634a34cddc">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.2.0_9b1c44858c24768f11fed0ccc1157a1e071248ff\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="db48dfabe8ecc46681ceca418d6bd61a5339f818">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.2.0_c3100859b526650e548c5134d99753f69a92d0d1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.2.0_86a8f86e3d89385d565e3de49682b1da78361dcb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.2.0_7aaf9f8a4fd947b07a4dee70f1e9626cef1a8562\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="9d1d0e1270310e34e2d65afda2bc18605c14cd46">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.2.0_ec446c8cdf0d88364f37c44fe02b3fa9008ed7b7\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="74c5a91d6510ad42410e8a047d90d2ea6721a0e0">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.2.0_633ba810bd91515bfc1799b31a1961cac2ab4198\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8fd2e9eadc9d214966ee7f60d6c5a17a335d7533">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.2.0_298ab175194988b061d21b1a2f46f6d16e4e5ddc\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\jars\classes.jar"
+        jar="C:\Users\HP\.android\build-cache\6dc9cf24621793780aa23dd29711ef4a867a8df1\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.2.0_b5b044533ed590a07b9bc7134cd96d973502b41b\classes.dex" />
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2b900e537c56fa334dcdb5d5b8939b9bc3065a59\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ab0c7fe28f9506302eb39adf1ebf5858732e18ec">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.2.0_679bd905c29f0f700f410a654637360a7fb83129\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ea03bbfaed89818f233ee9918fac493f2b63895a">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.2.0_16d55242bb01a45e1966b876d8ea742cb8cd8f01\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8e1d31656bc9f1889283836e025e6cb703acd38a">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.2.0_9779365fd3f6afc19494a009684a9a807b9f9027\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_ec328a5684f8fdec5edc621258fa1406b4c00ab6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="2d0e491e110a4dad1e4e0db5ad4443958bbb5db9">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7cebe23ff0ef6c133346fc3c07ed226fd9152cd7\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1bab75be1918fc9871be4da7afe38d7e4d308303">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.2.0_4d639c75bc49b9c429b1ed7c818cc18a6ed085c9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.2.0_df533ea2ceb27d87cc48d511ed74d0870f1ca50e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="45e0953544711e0b5a2d227732e88cccb82793bc">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.2.0_822da0349c06ed87851df960bcbf9ec17415d742\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0f58195bee8a08f35e7d4ee7fd4b0479e570e172">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.2.0_766bc5da05499c55286c909090637cdcab8bdbda\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a9493f008850469ed3fab9b28658919562882aed">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.2.0_ee9b9059b59cd7f2374c2797bfceedcd5a3af7b4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.2.0_816ddaa7751c2ace4342acdc1248446b5acfa656\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.2.0_ab0ccc8ad33743a46e8f5317a48c5d6b2da173aa\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.2.0_4387bff33ad0cb4de815d7561db3cccc7d7103bd\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e7157a9577c983651d6c6ee313813424fe2d8ab6">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.2.0_8312dddf76c6dd3454cd175f9c42694ad49a77a7\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.2.0_d3533348a3b89b8caba77122dd4d300f9b4c367f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b831d3902674d096189451d46fce219e2c2904b7">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.2.0_6546f23cf801c2f42518264b3e1a7473243e1a36\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="421a5cebe9ff187c98075c59786e9464c5c67d36">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.2.0_f8a09ca48c48cf6105a17c420c125b68935a4673\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_d0b696fd8c67273f9688dffa2ffbb8b881c03da9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="646b2c48e147b943f0a39842457fdc66d501e4b6">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.2.0_25081f37a6850b086faef2e3350575bdf09619d1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.2.0_b77927c0e70fe15c93b7d3be3aff771aa48ad923\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.2.0\jars\classes.jar"
+        jar="C:\Users\HP\.android\build-cache\69e68b22c348275f0fb1c6519b77dae5539e26be\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="444f9de23145e8caba7bf1c1772acad142ea6013">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.2.0_80813e64f4e6184c8813fa731176d37acbec9bb9\classes.dex" />
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_48308501e1fc4dd61be8bc2cc78279d49ba437ab\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="C:\Users\HP\.android\build-cache\c20d46b108b23674cbf74cf70ce42f502a58d912\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="7411d37118773551907b69766a9030745135c8fb">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b6fd3b3759565f43c749d2128e2d602ce03945b0\classes.dex" />
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_75ff831a466e7ed909ccd7ddf843ce7b48fbd66b\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.2.0\jars\classes.jar"
+        jar="C:\Users\HP\.android\build-cache\b672a6d27562e9bc5bd89861a58e234712dd0780\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="1df6d719c4e264d66bb98baa5cb637495b8cca66">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.2.0_0989627d87f1ffe71a7a14038c8b5899957d730c\classes.dex" />
+        sha1="b831d3902674d096189451d46fce219e2c2904b7">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_54212249ac1f903eb0b78fdb9e9fb99223febaef\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\lenovo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jar="C:\Users\HP\.android\build-cache\e2b1218eb4ec751f1b5c653cf3f485b5a0361d44\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_706cdf2d34d12519c77a185b9abf7a71728840a1\classes.dex" />
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e7d0bcf3ee7ff4611ab681a93458943bed6bf776\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.2.0\jars\classes.jar"
+        jar="C:\Users\HP\.android\build-cache\c21cb490b7835fb29b0e0db6f73b800330c96477\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="d08bb32b88df3dbcbe1d498c3c57f020b8c521ec">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.2.0_bae9e930a4f7d98b3ddf4c37b975e40295758cd6\classes.dex" />
+        sha1="646b2c48e147b943f0a39842457fdc66d501e4b6">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2e30ae2197b3b9310ab4945fee2829d695613a45\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.2.0_4bb2954ce8bcbf7b32e1ca2957090e91c3f20699\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.2.0_2d6de1df4167ed041f6bcc1f8f02a9473aaa1d7c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="101393e975eaf36e3ff40b277ee9a019e077afef">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.2.0_c3fb3bd91eac53460dd6c1a4e7bfdc0c59f1d0ff\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="90270132a5f1a33584f453c571257dd35e728201">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.2.0_1b54935c06cf4e06be36ea9de918d28cb31aa05e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="75575883f0348fc5d2be85f23bd10b050095cf17">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.2.0_d890f38a7c282a4bc7a0d74741d0022bad466cc6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_5f3ae2a4db4454ea7ea12dbdf2a37aa0fa29828e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="423fb69e69759d8b726fa4a4fb6a1ea9fc86d1cd">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.2.0_b8a5423e28bf752994cc7a63c327cf42fabea666\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.2.0_07a6985ef9a34cd6f3d51ac1102c27dac0940fe6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.2.0_8eed48ceebe6a196ec67cc437d9399f36ed4a1bd\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3f4483afd050f3be12db7838422309446a45daa1">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.2.0_700f6cc79b6c54f0a2492168cc9d2637585e2683\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.2.0_73a13157387a77e507b1737a24ab2227b19267c3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="94fca868854457ede6df15c902938468c71d579e">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.2.0_bcd571e89d67a114c26555bb7d6eb13d11763899\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_1f4ec84d1ef5d9cddee080a8037d91ade3d387ee\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a3f7595ca32e614b454ceb7b7e241bb037a28e86">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.2.0_e3e1c8e6bf4493e0d017b954b9644841628603eb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.2.0_6de5076c8a9031aba20fc0bd1cdb470b2d27a6bf\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="db4aca1c1ec60f2c098d3b6c91cedfb7838f83ed">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.2.0_b85e9bdf02ec5411c13d3715ac740582f6e9326b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="68485f21eeb5d6c9ed82c445d520b9fc81c87108">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.2.0_091594819926ad9f8d5751e385d0efa4858f034c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ddb7fed808f4331174b59428ccfc46b3696c9812">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.2.0_9dc479e8baf2ca8b73e89c5ab9e6689eac130270\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.android.support\transition\25.2.0\jars\classes.jar"
+        jar="C:\Users\HP\.android\build-cache\f22a3f7bf936b3f1d804b79604595d4a923a34d7\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="e51c2f662bb72419632af5192553c37e33890a99">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.2.0_ae41dc57e7091cfde2377a5ecf83fbb5f51175fa\classes.dex" />
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b248b55c982956ca975b438b7641819da4b47d87\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.2.0\jars\classes.jar"
+        jar="C:\Users\HP\.android\build-cache\efe0d98aa9e31dd7d2f9e715c58b7dd858883c22\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90270132a5f1a33584f453c571257dd35e728201">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a212dbc23432c77f9cd9f868da3315da186f5505\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\bf2ddfd7eb827fcad570eed8b3d68ee0896cbf77\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="421a5cebe9ff187c98075c59786e9464c5c67d36">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c66bc0910c6dcbc5dd6a991c31a45bbb93b34d2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\06769f9a8af8e3cdfbabe94eec868cc5619226de\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d1d0e1270310e34e2d65afda2bc18605c14cd46">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_366bd79e9bd2d3fe6ad36c9eb1174d48198977d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\e8fa882587fab051e6f3cdd1f9f575e1bfa6268e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1df6d719c4e264d66bb98baa5cb637495b8cca66">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_28f1795e7672dbaf5bd3125b4cafe3d50cc86534\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\12589de785965a341b2db4acd5e284fdb3afae7f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_87b2848e1169c2379c2d077b02725438a7737ab3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\bb1e194abd00c2d3c052c7049c3258619797e223\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8aa12337d439fb46a58f79fc324b7948672b7b9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\edc192d418b5a025c3347b41dc6fea6424343c42\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_74ef7afd10a5ed453d7d17129a4c81b538ee4103\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\8126ece5640b2ed88b061d8506295a0496c3d2d0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca82d5800780b1d53f0f9ab43678d8634a34cddc">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_293dc74b272bc766e980b61a9c9a71acc0aa0fbc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\526e183a50cb8d22472982757362676acc1312c6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48532a016bb0dfbe7970c147ce784598a515406b">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_26c7535af851b73091a238046cc0ddc4bf7e3435\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\a3219909997a35f8e67a12b7f2153478622d5522\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_45d4f9563838c8dc11b07526811212ed311a68f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\59a65ce853553904d337d061f0465616580ce36d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="423fb69e69759d8b726fa4a4fb6a1ea9fc86d1cd">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e58331dedaa92f16053f6dcf6fa6732270a0af84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\48349d86d58e9aabe26609dcbfee090560820711\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9493f008850469ed3fab9b28658919562882aed">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_85c0dca16c3399335d4c77890c283d00875d14e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\da3b4a9f7fb4191c0a43c86d25a4430eee5d3d08\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45e0953544711e0b5a2d227732e88cccb82793bc">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a80cf0d5dff382a95c2a9f9f065e6b1649eb7bd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\260bf233a20e120e74b4413b4eb6085a0b0cd60c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2c34162350e125a1735f7277535924b3c9d0bfc6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\146964cba19f5be8bd8a1854a285ec295bf9952b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab0c7fe28f9506302eb39adf1ebf5858732e18ec">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b8cac58ede8777fa621e2ab88df67deab8a4b2a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\7d93b59b5b247c6f59b93fd17dc6f189c8cc0a92\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94fca868854457ede6df15c902938468c71d579e">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_11f0f4d266eb6a7404c8332a7e4868673dd6819b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\95eb2d83ff19824bcda233fd73779f9c97e79a91\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0d5900ffdb39f058d59774958c344460d0bbfc8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\bf53f23ec590435e06ac20ea2a2a6eead6f43458\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_683e0a1f778083c493afe3d478c8efc8f08bf7ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\085a47196d101b09d8bc962f676d73f695223467\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9a9f2fc5d144c7a63f33c0078fcbba087d462186\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\e6db09ec08b7386d2a62fbef026d5cb65db70c33\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_158956ab4cb91fcb45b8e20cee024cf9543a0c81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\999dc8c5793e8eb2037843bba0fe73725dfcd2be\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75575883f0348fc5d2be85f23bd10b050095cf17">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_380e1da9123ea668adc4c78c645dd2c1e90da06b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\55d1cfef254c3f577234f6be389b2fc83aa4845c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e1d31656bc9f1889283836e025e6cb703acd38a">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_29945e7eae800e947a33efadeb39e23d0eb992ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\e0c84ff9f590d67600731e3cf9b671596b419da1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3ed6203f77717647d781f7ccfca6d0f1d6a098db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\a45e4ca2a7868135e3fc4d06093391269d4e0b96\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddb7fed808f4331174b59428ccfc46b3696c9812">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e5b827fe6e4fa88c465e5fe47d2cad9b89d801d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\c57a5fb4b3860a1e38d03bc7fe4f1cdc6b3a2659\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db48dfabe8ecc46681ceca418d6bd61a5339f818">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4c6210837c3e0c2669dd3996d9ec70a9646e4361\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\0746940195c838582b6adfdba060a4ca80ec6793\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="74c5a91d6510ad42410e8a047d90d2ea6721a0e0">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8ff789760a6512d8e4bac7acad099ed6a3043e52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\c53de3bff5bbb6b26d8f15d46bad856891d5c324\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1fbf3733f36fea63e70373212796e70f9079981f">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b7ba48233ac1210096a401838cd0755193cb8312\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\540080c924f53308578fb5849cf420fd9384a92d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fd2e9eadc9d214966ee7f60d6c5a17a335d7533">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a3c25372cfe7b393026ee85c180eb64c989c414e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\a33f4b8bb9014b4e3f1ec7d1b685cce7102be185\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7af94eeebc98c5e397b09b80681f456c217b7278\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\d06060d7dd5c35132ea7669e7501857dec723de9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e01b82d664e1a8253b2b9658e74b5da35c8771d">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3d5b8d0739789e73692a43fe2bb34915065535e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\81d8e2e7d79a9ac380c0f3e2a33737f0c7e6fab0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1ca98100b7f5fb92d1bdd7f26bfad19e1ec570f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\a40e412cd19d22c00f222f613626157496cff2b9\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="654b294d429b56fd18392f2b68ad79954f431f8e">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.2.0_cd16178fc7874436049a9813d45978042a2d4d6a\classes.dex" />
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a1e16faeba5f5c1aee2665ef4ade38aea09f3497\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\jars\classes.jar"
+        jar="C:\Users\HP\.android\build-cache\c5a8626348bd3b8c4a458358f94c8a857f095edc\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.2.0_7ed1125916295cd60356742990ba29a07e325a12\classes.dex" />
+        sha1="7d14fe9bd2283b2eb7fcab08458aa0357917e138">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f0032c8cd56d72666d85e3fac4df60bc5504c5e8\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\jars\classes.jar"
+        jar="C:\Users\HP\.android\build-cache\75dcfee57e7529151275e8f8e20a0a1dd14dc7c0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0f58195bee8a08f35e7d4ee7fd4b0479e570e172">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b712c108e309c960563a741b75d1551a515c5e11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\a3219909997a35f8e67a12b7f2153478622d5522\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bd4b1bd3542560d903c491abb9f06ef3ed2a65b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\21b00074c34e7451d6aea1125ad4d5534c93cc21\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7157a9577c983651d6c6ee313813424fe2d8ab6">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1fe7d1f4de2fda05388cd8b1959604cd679cffbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\714cf022697661c92d02d8ba58f80b9d174c0bdf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3f7595ca32e614b454ceb7b7e241bb037a28e86">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a5c1aaf8d2d19d59fc4cb57f7a71943a24d9ce1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\e68eb2ef1f23fa25e9150726a8babba87a1b12d6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_07f30d7b802808b23628f456fc0360a5156df8c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\dadaf76386366d008ebdf49d7dd4fa370456151e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1bab75be1918fc9871be4da7afe38d7e4d308303">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1d420c3d01f27600196bd9e3c2ca553d581b2bfd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\9b76b0a7a6173da6b566c446b499e309bb0dd726\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c50a18561a69d8d7175ebeeef3e377d51b3ba022\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\a23a238ceb94d7617142cbb78855b3206445776e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3aaf1e7b5fe9f4d3ff22c4edc0ead631f7389d30">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_33344c56f050992bc3aab01f27c3908b83e8ccbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\12902f1f18171aa9b0fcbcae56013c6f36e133c2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="101393e975eaf36e3ff40b277ee9a019e077afef">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_580fc70f9c185224738f4a898cce9acefcc8f9dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\e3be93993024f6c8211c59ccf9da8046266c5ea8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_82dd09830cb155ef215c3245f3235fa61ecb0392\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\7eb9a251d5cfa4a8ec177b1cea96efdb8b420db7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db4aca1c1ec60f2c098d3b6c91cedfb7838f83ed">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5e95d2b8a5828fee95bdb1cb58a04796776762d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\6a7db2f1baf6574d5d09fb7026435786a32ac925\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8438c64f9eb581429dc592f7c9b3156a3d071653">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1db390948565893cb799bc5d4a9aeafd9692235f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_44c72f3cfaff44356880d803c2d6fcc308ca889c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\2d4ed9a1813c03feebd77d4c9ed9c7d373e30495\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68485f21eeb5d6c9ed82c445d520b9fc81c87108">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_65bafc93c19850d154b5ddbd999e63e08119df22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\81ded8a5dcc9fd2abb9af280887ab76726753068\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_721f91abf64daa380485f4d107feafe85c15d2ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\eb855a19b497151781164c12aa411702a00bfdb9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea03bbfaed89818f233ee9918fac493f2b63895a">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_89b813b98b2ba37442d4d7286e557b33570d5e9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\79783d76cff093edb7524220d84ba296d33e66de\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_27249d851c11c7e83beea2c9584f409b1deeb2a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\5c4967b2ece7d0e633aee54778027730693e67fe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fe270db3cec832cd934619f9c7499b382af15606\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\a6448ca81cfacb3a8802e8e798dd2a46cf936035\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ae11b8e6cea97907dae771ac2ae20369a21c0847\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\3a3f44a59a69b1a5cc97900d7d505568367c8ea5\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
-        <dex dex="E:\ITB\6\IF3111 - PBD\new2\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.2.0_eb9f519ab4aef2a6f0779f3e6530f050a59b6b35\classes.dex" />
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_019be2510e8ab99f4ca6622b41cbb7d562665ba5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\51a598b3c81e9f0510e33d5ac97ef5b63c591c33\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d2052fe820b399596ee25e0228bf3229486f4c16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_515f31537bf4beae503675092ace1fdd1db3ece0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\438864f5f58a36280b7f7e4d9c61d7d2366a72fb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d08bb32b88df3dbcbe1d498c3c57f020b8c521ec">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_46ae8a269ef371d7d5b1742983d35c59674997d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\a4b760dd713c0973f89c0791ee7a5aefa98a08b0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_674b8593a0aa8ea9da1ea345f82d42cc7e86feed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\6c9458a03758f5bac289d33846d16e0875208549\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="C:\Users\HP\Desktop\Temporary\PBD_tes\EmaZing-Race\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d642c647cb8d398b2bdfad4e2f30fa31cdd6a44e\classes.dex" />
     </item>
 
 </items>

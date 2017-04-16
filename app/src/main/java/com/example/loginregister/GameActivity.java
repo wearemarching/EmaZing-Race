@@ -49,6 +49,8 @@ public class GameActivity extends AppCompatActivity implements MapsFragment.OnFr
     private String gameToken;
     private static String EXTRA_MESSAGE;
     public final static  String win = "com.example.loginregister";
+    private int cFrag = 1;
+    private int quest = 1;
     private String uName1;
     private String uName2;
     private String uName3;
@@ -200,7 +202,6 @@ public class GameActivity extends AppCompatActivity implements MapsFragment.OnFr
                     System.out.println(Double.toString(lat) + " " + Double.toString(lng) + " " + name);
                     MapsFragment articleFrag = (MapsFragment)
                             getSupportFragmentManager().findFragmentById(R.id.container);
-                    System.out.println("whispering DRAWWIINNNGG");
                     if (name.equals(uName1)) {
                         articleFrag.createPlayer1(lat, lng);
                     } else if (name.equals(uName2)) {
@@ -254,7 +255,7 @@ public class GameActivity extends AppCompatActivity implements MapsFragment.OnFr
                 new HttpGetter2("https://whispering-lake-62045.herokuapp.com/wl?fbToken=" + token + "&gameToken=" + gameToken).execute();
 
             }
-        }, 60000);
+        }, 300000);
 
         Intent mServiceIntent = new Intent(getApplicationContext(), LocationBroadcastService.class);
         mServiceIntent.setData(Uri.parse("https://whispering-lake-62045.herokuapp.com/location?gameToken=" + gameToken + "&fbToken=" + token));
@@ -270,7 +271,7 @@ public class GameActivity extends AppCompatActivity implements MapsFragment.OnFr
                 toolbar.getContext(),
                 new String[]{
                         "Maps",
-                        "Users",
+                        "Quests",
                 }));
 
         spinner.setOnItemSelectedListener(new OnItemSelectedListener() {
@@ -279,14 +280,14 @@ public class GameActivity extends AppCompatActivity implements MapsFragment.OnFr
                 // When the given dropdown item is selected, show its contents in the
                 // container view.
                 if (id == 0) {
-                    System.out.println("HARUSNYA: ");
+                    cFrag = 1;
                     getSupportFragmentManager().beginTransaction()
-                            .replace(R.id.container, MapsFragment.newInstance(gameToken))
+                            .replace(R.id.container, MapsFragment.newInstance(gameToken, quest))
                             .commit();
                 } else {
-                    System.out.println("TAPI: ");
+                    cFrag = 2;
                     getSupportFragmentManager().beginTransaction()
-                            .replace(R.id.container, PlaceholderFragment.newInstance(position + 1))
+                            .replace(R.id.container, PostFinder.newInstance("a","b"))
                             .commit();
                 }
             }
@@ -312,24 +313,38 @@ public class GameActivity extends AppCompatActivity implements MapsFragment.OnFr
         // as you specify a parent activity in AndroidManifest.xml.
         int id = item.getItemId();
 
-        System.out.println("ONE TEST");
-
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
-            System.out.println("TWO TEST");
-
-
-            MapsFragment articleFrag = (MapsFragment)
-                    getSupportFragmentManager().findFragmentById(R.id.container);
-            if(articleFrag.checkLocationSame()){
-
-                Toast.makeText(this,"You just captured a post!",Toast.LENGTH_LONG).show();
-
-                final String token = FirebaseInstanceId.getInstance().getToken();
-                new HttpGetter("https://whispering-lake-62045.herokuapp.com/point?fbToken=" + token + "&gameToken=" + gameToken).execute();
-                System.out.println("https://whispering-lake-62045.herokuapp.com/point?fbToken=" + token + "&gameToken=" + gameToken);
+            if (quest == 1) {
+                Toast.makeText(this,"A place where it's people have spirits of warriors.",Toast.LENGTH_LONG).show();
+            } else if (quest == 2) {
+                Toast.makeText(this,"This post is a post?",Toast.LENGTH_LONG).show();
+            } else if (quest == 3) {
+                Toast.makeText(this,"denki gakusei dantai!",Toast.LENGTH_LONG).show();
+            } else if (quest == 4) {
+                Toast.makeText(this,"Neutral, eh?",Toast.LENGTH_LONG).show();
             } else {
-                Toast.makeText(this,"You are not next to a post!",Toast.LENGTH_LONG).show();
+                Toast.makeText(this,"You've found all posts!",Toast.LENGTH_LONG).show();
+            }
+            return true;
+        } else if (id == R.id.action_settings2) {
+            if (cFrag == 1) {
+                MapsFragment articleFrag = (MapsFragment)
+                        getSupportFragmentManager().findFragmentById(R.id.container);
+                if (articleFrag.checkLocationSame()) {
+                    Toast.makeText(this, "You are really close to a post!", Toast.LENGTH_LONG).show();
+                } else {
+                    Toast.makeText(this, "You are not next to a post!", Toast.LENGTH_LONG).show();
+                }
+            } else if (cFrag == 2) {
+                PostFinder articleFrag = (PostFinder)
+                        getSupportFragmentManager().findFragmentById(R.id.container);
+                if (articleFrag.checkQuest(quest)) {
+                    Toast.makeText(this, "You found a post!", Toast.LENGTH_LONG).show();
+                    quest += 1;
+                } else {
+                    Toast.makeText(this, "Try again!", Toast.LENGTH_LONG).show();
+                }
             }
             return true;
         }
@@ -405,7 +420,6 @@ public class GameActivity extends AppCompatActivity implements MapsFragment.OnFr
         @Override
         public View onCreateView(LayoutInflater inflater, ViewGroup container,
                                  Bundle savedInstanceState) {
-            System.out.println("HERE PLEASE :(");
             View rootView = inflater.inflate(R.layout.fragment_tryhard, container, false);
             TextView textView = (TextView) rootView.findViewById(R.id.section_label);
             textView.setText(EXTRA_MESSAGE);

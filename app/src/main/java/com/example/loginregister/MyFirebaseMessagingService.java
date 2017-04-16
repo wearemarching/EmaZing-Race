@@ -65,7 +65,7 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService {
         if (remoteMessage.getNotification() != null) {
             Log.d(TAG, "Message Notification Body: " + remoteMessage.getNotification().getBody());
             if (remoteMessage.getNotification().getTitle().contains("Join")) {
-                sendNotification(remoteMessage.getNotification().getBody());
+                sendNotification(remoteMessage.getNotification().getBody() + " just joined the room!");
                 String test = remoteMessage.getNotification().getBody();
                 Intent intent = new Intent();
                 intent.putExtra("type", "Join");
@@ -73,7 +73,7 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService {
                 intent.setAction("com.google.firebase.quickstart.fcm.onMessageReceived");
                 sendBroadcast(intent);
             } else if (remoteMessage.getNotification().getTitle().contains("Leave")) {
-                sendNotification(remoteMessage.getNotification().getBody());
+                sendNotification(remoteMessage.getNotification().getBody() + " just left the room!");
                 String test = remoteMessage.getNotification().getBody();
                 Intent intent = new Intent();
                 intent.putExtra("type", "Leave");
@@ -97,7 +97,6 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService {
                 intent.setAction("com.google.firebase.quickstart.fcm.onMessageReceived");
                 sendBroadcast(intent);
             } else if (remoteMessage.getNotification().getTitle().contains("Location")) {
-                sendNotification(remoteMessage.getNotification().getBody());
                 String test = remoteMessage.getNotification().getBody();
                 Intent intent = new Intent();
                 intent.putExtra("type", "Location");
@@ -106,7 +105,7 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService {
                 intent.setAction("com.google.firebase.quickstart.fcm.onMessageReceived");
                 sendBroadcast(intent);
             } else if (remoteMessage.getNotification().getTitle().contains("Point")) {
-                sendNotification(remoteMessage.getNotification().getBody() + " just captured a post!");
+                sendNotification(remoteMessage.getNotification().getBody() + " just captured a post " + remoteMessage.getNotification().getTitle().charAt(5) + "!");
             }
         }
 
